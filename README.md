@@ -47,3 +47,53 @@
 ## West
 
 <img src="bosses/WestBosses/ghostrider.png" width="200" title="ghostrider"> <img src="bosses/WestBosses/rattler2.png" width="200" title="rattler2"> <img src="bosses/WestBosses/scorpion.png" width="200" title="scorpion"> <img src="bosses/WestBosses/sheriff.png" width="200" title="sheriff"> <img src="bosses/WestBosses/thunderbird.png" width="200" title="thunderbird">
+
+# New planes (2 per world)
+
+## alien
+
+<img src="new-planes/alien/alien.png" width="300" title="alien"> <img src="new-planes/alien/alien2.png" width="300" title="alien2">
+
+## autumn
+
+<img src="new-planes/autumn/autumn.png" width="300" title="autumn"> <img src="new-planes/autumn/autumn2.png" width="300" title="autumn2">
+
+## camping
+
+<img src="new-planes/camping/camping.png" width="300" title="camping"> <img src="new-planes/camping/camping2.png" width="300" title="camping2">
+
+## christmas
+
+<img src="new-planes/christmas/christmas.png" width="300" title="christmas"> <img src="new-planes/christmas/christmas2.png" width="300" title="christmas2">
+
+## city
+
+<img src="new-planes/city/city.png" width="300" title="city"> <img src="new-planes/city/city2.png" width="300" title="city2">
+
+## desert
+
+<img src="new-planes/desert/desert.png" width="300" title="desert"> <img src="new-planes/desert/desert2.png" width="300" title="desert2">
+
+## japan
+
+<img src="new-planes/japan/japan.png" width="300" title="japan"> <img src="new-planes/japan/japan2.png" width="300" title="japan2">
+
+## lava
+
+<img src="new-planes/lava/lava.png" width="300" title="lava"> <img src="new-planes/lava/lava2.png" width="300" title="lava2">
+
+## meadow
+
+<img src="new-planes/meadow/meadow.png" width="300" title="meadow"> <img src="new-planes/meadow/meadow2.png" width="300" title="meadow2">
+
+## sea
+
+<img src="new-planes/sea/sea.png" width="300" title="sea"> <img src="new-planes/sea/sea2.png" width="300" title="sea2">
+
+## treasure
+
+<img src="new-planes/treasure/treasure.png" width="300" title="treasure"> <img src="new-planes/treasure/treasure2.png" width="300" title="treasure2">
+
+## west
+
+<img src="new-planes/west/west.png" width="300" title="west"> <img src="new-planes/west/west2.png" width="300" title="west2">
